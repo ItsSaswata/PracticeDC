@@ -1,0 +1,14 @@
+{
+  "last_release": "2026-08-19.0",
+  "last_run": "2026-08-22T18:26:26.956681+00:00",
+  "theme": "buildings",
+  "type": "building",
+  "bbox": {
+    "xmin": 83.2,
+    "ymin": 17.67,
+    "xmax": 83.25,
+    "ymax": 17.72
+  },
+  "backend": "geojson",
+  "output": "C:\\3DEnginerd\\DataCenter\\vizag-buildings.geojson"
+}
